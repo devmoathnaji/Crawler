@@ -18,7 +18,8 @@ python web crwaler connected to mongo db to store the crawler result
 ### 2- you can change the number of threads from NUMBER_OF_THREADS variable 
 ### 3- in MongoDbInsert.py file you can edit the Crawler collection attribute's
 
-## References >> 
+## References 
+
 ### 1- https://github.com/buckyroberts/Spider
 ### 2- https://www.mongodb.com/
 ### 3- https://robomongo.org/
